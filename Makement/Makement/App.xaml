@@ -1,0 +1,12 @@
+﻿<Application x:Class="Makement.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Makement">
+    <Application.Resources>
+        <FontFamily x:Key="Montserrat">./Font/Montserrat-Regular.ttf#Montserrat</FontFamily>
+        <FontFamily x:Key="MontserratItalic">./Font/Montserrat-Italic.ttf#Montserrat</FontFamily>
+        <FontFamily x:Key="MontserratBold">./Font/Montserrat-Bold.ttf#Montserrat</FontFamily>
+        <FontFamily x:Key="MontserratBoldItalic">./Font/Montserrat-BoldItalic.ttf#Montserrat</FontFamily>
+        <FontFamily x:Key="MontserratSymbols">./Font/Montserrat-Regular.ttf#Montserrat Symbols</FontFamily>
+    </Application.Resources>
+</Application>
